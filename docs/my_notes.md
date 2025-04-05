@@ -17,3 +17,8 @@ https://docs.github.com/en/pages
  * https://pages-themes.github.io/minimal/  # truley minal
  * https://pages-themes.github.io/modernist/ # yes mod web2.0
  * 
+
+# Custom Domain 
+
+* https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages
+* 
