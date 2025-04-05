@@ -1,4 +1,4 @@
-theme: pages-themes/slate@v0.2.0 
+remote_theme: pages-themes/slate@v0.2.0
 title: my_title_entry_here
 author: wanderlustrover
 description: this_description_entry_hmm
