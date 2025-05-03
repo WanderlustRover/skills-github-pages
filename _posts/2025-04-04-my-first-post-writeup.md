@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My First Post Writeup"
 date: 2025-04-04
 ---
