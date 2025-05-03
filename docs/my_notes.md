@@ -22,3 +22,9 @@ https://docs.github.com/en/pages
 
 * https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages
 * 
+
+# Expanded notes from demos
+
+## example1
+
+https://github.com/AhmedTremo/ahmedtremo.github.io/tree/main
